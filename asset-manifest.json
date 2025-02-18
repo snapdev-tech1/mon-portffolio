@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/mon-portffolio/static/css/main.f855e6bc.css",
-    "main.js": "/mon-portffolio/static/js/main.94423f7d.js",
-    "static/media/logo.svg": "/mon-portffolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/mon-portffolio/static/css/main.9406080a.css",
+    "main.js": "/mon-portffolio/static/js/main.8c4c7128.js",
+    "static/media/cactus.png": "/mon-portffolio/static/media/cactus.7be5e01c5666e7ccc3ed.png",
+    "static/media/femmeBureau.svg": "/mon-portffolio/static/media/femmeBureau.59683b21124b963f0cbe8a27a37e5913.svg",
+    "static/media/agpm.webp": "/mon-portffolio/static/media/agpm.4c3cafcae66cdfc8393a.webp",
+    "static/media/esa.webp": "/mon-portffolio/static/media/esa.c576d6838c13e38d182f.webp",
+    "static/media/openclassrooms.webp": "/mon-portffolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
+    "static/media/societe-generale.webp": "/mon-portffolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portffolio/index.html",
-    "main.f855e6bc.css.map": "/mon-portffolio/static/css/main.f855e6bc.css.map",
-    "main.94423f7d.js.map": "/mon-portffolio/static/js/main.94423f7d.js.map"
+    "main.9406080a.css.map": "/mon-portffolio/static/css/main.9406080a.css.map",
+    "main.8c4c7128.js.map": "/mon-portffolio/static/js/main.8c4c7128.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.94423f7d.js"
+    "static/css/main.9406080a.css",
+    "static/js/main.8c4c7128.js"
   ]
 }
