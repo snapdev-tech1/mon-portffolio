@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mon-portffolio/static/css/main.9675a0cb.css",
-    "main.js": "/mon-portffolio/static/js/main.aa5983aa.js",
+    "main.css": "/mon-portffolio/static/css/main.3ea8f8bc.css",
+    "main.js": "/mon-portffolio/static/js/main.d8855266.js",
     "static/media/fa-solid-900.ttf": "/mon-portffolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/mon-portffolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/mon-portffolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -16,11 +16,11 @@
     "static/media/openclassrooms.webp": "/mon-portffolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
     "static/media/societe-generale.webp": "/mon-portffolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portffolio/index.html",
-    "main.9675a0cb.css.map": "/mon-portffolio/static/css/main.9675a0cb.css.map",
-    "main.aa5983aa.js.map": "/mon-portffolio/static/js/main.aa5983aa.js.map"
+    "main.3ea8f8bc.css.map": "/mon-portffolio/static/css/main.3ea8f8bc.css.map",
+    "main.d8855266.js.map": "/mon-portffolio/static/js/main.d8855266.js.map"
   },
   "entrypoints": [
-    "static/css/main.9675a0cb.css",
-    "static/js/main.aa5983aa.js"
+    "static/css/main.3ea8f8bc.css",
+    "static/js/main.d8855266.js"
   ]
 }
