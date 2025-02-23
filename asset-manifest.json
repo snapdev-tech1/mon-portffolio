@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mon-portffolio/static/css/main.888b7809.css",
-    "main.js": "/mon-portffolio/static/js/main.a21f8989.js",
+    "main.css": "/mon-portffolio/static/css/main.1996beba.css",
+    "main.js": "/mon-portffolio/static/js/main.a43ce40b.js",
     "static/media/fa-solid-900.ttf": "/mon-portffolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/mon-portffolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/mon-portffolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -17,11 +17,11 @@
     "static/media/openclassrooms.webp": "/mon-portffolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
     "static/media/societe-generale.webp": "/mon-portffolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portffolio/index.html",
-    "main.888b7809.css.map": "/mon-portffolio/static/css/main.888b7809.css.map",
-    "main.a21f8989.js.map": "/mon-portffolio/static/js/main.a21f8989.js.map"
+    "main.1996beba.css.map": "/mon-portffolio/static/css/main.1996beba.css.map",
+    "main.a43ce40b.js.map": "/mon-portffolio/static/js/main.a43ce40b.js.map"
   },
   "entrypoints": [
-    "static/css/main.888b7809.css",
-    "static/js/main.a21f8989.js"
+    "static/css/main.1996beba.css",
+    "static/js/main.a43ce40b.js"
   ]
 }
