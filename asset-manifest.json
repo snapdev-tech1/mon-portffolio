@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/mon-portffolio/static/css/main.42eab9a0.css",
-    "main.js": "/mon-portffolio/static/js/main.31a8fb9b.js",
+    "main.css": "/mon-portffolio/static/css/main.558b765a.css",
+    "main.js": "/mon-portffolio/static/js/main.f783152a.js",
     "static/media/fa-solid-900.ttf": "/mon-portffolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/mon-portffolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/sa.png": "/mon-portffolio/static/media/sa.3db5c960448694578be8.png",
     "static/media/fa-solid-900.woff2": "/mon-portffolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/mon-portffolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
-    "static/media/avatar.png": "/mon-portffolio/static/media/avatar.d72d29b35a2527117325.png",
     "static/media/fa-regular-400.ttf": "/mon-portffolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/femmeBureau.svg": "/mon-portffolio/static/media/femmeBureau.59683b21124b963f0cbe.svg",
     "static/media/fa-regular-400.woff2": "/mon-portffolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
@@ -18,11 +17,11 @@
     "static/media/openclassrooms.webp": "/mon-portffolio/static/media/openclassrooms.27204d17e9b1c022e0f4.webp",
     "static/media/societe-generale.webp": "/mon-portffolio/static/media/societe-generale.ca33e76fc7b016338e1a.webp",
     "index.html": "/mon-portffolio/index.html",
-    "main.42eab9a0.css.map": "/mon-portffolio/static/css/main.42eab9a0.css.map",
-    "main.31a8fb9b.js.map": "/mon-portffolio/static/js/main.31a8fb9b.js.map"
+    "main.558b765a.css.map": "/mon-portffolio/static/css/main.558b765a.css.map",
+    "main.f783152a.js.map": "/mon-portffolio/static/js/main.f783152a.js.map"
   },
   "entrypoints": [
-    "static/css/main.42eab9a0.css",
-    "static/js/main.31a8fb9b.js"
+    "static/css/main.558b765a.css",
+    "static/js/main.f783152a.js"
   ]
 }
